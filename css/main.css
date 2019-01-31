@@ -23,7 +23,27 @@ body{
    -webkit-box-shadow: 0px 0px 82px 14px rgba(186,0,186,1);
     -moz-box-shadow: 0px 0px 82px 14px rgba(186,0,186,1);
     box-shadow: 0px 0px 82px 14px rgba(186,0,186,1);
-    background-image: url(/../Studiegrpsite/gfx/hh.jpg)
+    
+}
+
+.imgcover1{
+    background-color: antiquewhite;
+    width: 100%;
+    
+    border-color: black;
+   border-style: solid;
+   border-width: 5px;
+    object-fit: cover;
+    -webkit-box-shadow: 0px 0px 82px 14px rgb(255, 253, 129);
+    -moz-box-shadow: 0px 0px 82px 14px rgb(186, 158, 0);
+    box-shadow: 0px 0px 82px 14px rgb(221, 218, 62);  
+}
+.imgcover1:hover{
+   
+   -webkit-box-shadow: 0px 0px 82px 14px rgba(186,0,186,1);
+    -moz-box-shadow: 0px 0px 82px 14px rgba(186,0,186,1);
+    box-shadow: 0px 0px 82px 14px rgba(186,0,186,1);
+    
 }
 
 #gridlayout{
