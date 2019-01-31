@@ -8,6 +8,18 @@
 body{
 
 }
+#content {
+  background-image: url('LibraryTransparent.png');
+  height: 70px;
+  width: 120px;
+}
+#content:hover {
+  background-image: url('LibraryHoverTrans.png');
+  width: [IMAGE_WIDTH_IN_PIXELS]px;
+  height: [IMAGE_HEIGHT_IN_PIXELS]px;
+}
+
+
 
 .imgcover{
     background-color: antiquewhite;
