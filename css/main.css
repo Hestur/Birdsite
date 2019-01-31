@@ -1,4 +1,10 @@
 *{margin:0px; padding: 0px;}
+
+.container{
+  width: 50;
+  height: 50%;
+}
+
 body{
 
 }
