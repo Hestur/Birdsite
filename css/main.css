@@ -8,16 +8,7 @@
 body{
 
 }
-#content {
-  background-image: url('LibraryTransparent.png');
-  height: 70px;
-  width: 120px;
-}
-#content:hover {
-  background-image: url('LibraryHoverTrans.png');
-  width: [IMAGE_WIDTH_IN_PIXELS]px;
-  height: [IMAGE_HEIGHT_IN_PIXELS]px;
-}
+
 
 
 
@@ -176,6 +167,7 @@ color:orange;
 .spanfullw{
     grid-column-end: span all;
 }
+
 .shake-vertical {
 	-webkit-animation: shake-vertical 0.8s cubic-bezier(0.455, 0.030, 0.515, 0.955) both;
 	        animation: shake-vertical 0.8s cubic-bezier(0.455, 0.030, 0.515, 0.955) both;
